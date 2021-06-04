@@ -1,0 +1,31 @@
+<div class="sidebar" data-color="azure" data-image="/img/sidebar-5.jpg">
+            <!--
+        Tip 1: You can change the color of the sidebar using: data-color="purple | blue | green | orange | red"
+
+        Tip 2: you can also add an image using data-image tag
+    -->
+    <div class="sidebar-wrapper">
+        <div class="logo">
+            <!-- style="background-color:white; border-radius:10%; padding:2px;" -->
+            <a href="{{admin_url}}" class="simple-text logo-mini">
+                <!-- <img src="/logo(1).png" height="30" /> -->
+            </a>
+            <a href="{{admin_url}}" class="simple-text logo-normal">
+                Starkflow.co
+            </a>
+        </div>
+        <div class="user">
+            <div class="photo">
+                <img src="{{ user.picture if user.picture else '/img/faces/face-1.jpg'}}" height="30" />
+            </div>
+            <div class="info">
+                <a href="javascript:void(0)">
+                    <span>Dashboard</span>
+                </a>
+            </div>
+        </div>
+        <ul class="nav">
+            
+        </ul>
+    </div>
+</div>

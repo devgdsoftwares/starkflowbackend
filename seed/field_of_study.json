@@ -1,0 +1,869 @@
+[
+    {
+        "id": "1",
+        "degree": "B.A",
+        "field_of_study": [
+            "Arts&amp;Humanities",
+            "Communication",
+            "Economics",
+            "English",
+            "Film",
+            "Fine Arts",
+            "Hindi",
+            "History",
+            "Journalism",
+            "Maths",
+            "Pass Course",
+            "Political Science",
+            "PR / Advertising",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Statistics",
+            "Vocational Course",
+            "Hotel Management",
+            "Other"
+        ]
+    },
+    {
+        "id": "2",
+        "degree": "B.Arch",
+        "field_of_study": [
+            "Architecture",
+            "Other"
+        ]
+    },
+    {
+        "id": "3",
+        "degree": "BCA",
+        "field_of_study": [
+            "Computers",
+            "Other"
+        ]
+    },
+    {
+        "id": "4",
+        "degree": "B.B.A /  B.M.S",
+        "field_of_study": [
+            "Management",
+            "Other"
+        ]
+    },
+    {
+        "id": "5",
+        "degree": "B.Com",
+        "field_of_study": [
+            "Commerce",
+            "Other"
+        ]
+    },
+    {
+        "id": "6",
+        "degree": "B.Ed",
+        "field_of_study": [
+            "Education",
+            "Other"
+        ]
+    },
+    {
+        "id": "7",
+        "degree": "BDS",
+        "field_of_study": [
+            "Dentistry",
+            "Other"
+        ]
+    },
+    {
+        "id": "8",
+        "degree": "BHM",
+        "field_of_study": [
+            "Hotel Management",
+            "Other"
+        ]
+    },
+    {
+        "id": "9",
+        "degree": "B.Pharma",
+        "field_of_study": [
+            "Pharmacy",
+            "Other"
+        ]
+    },
+    {
+        "id": "10",
+        "degree": "B.Sc",
+        "field_of_study": [
+            "Agriculture",
+            "Anthropology",
+            "Bio-Chemistry",
+            "Biology",
+            "Botany",
+            "Chemistry",
+            "Computers",
+            "Dairy Technology",
+            "Electronics",
+            "Environmental science",
+            "Food Technology",
+            "Geology",
+            "Home science",
+            "Maths",
+            "Microbiology",
+            "Nursing",
+            "Physics",
+            "Statistics",
+            "Zoology",
+            "General",
+            "Hospitality and Hotel Management",
+            "Optometry",
+            "Other"
+        ]
+    },
+    {
+        "id": "11",
+        "degree": "B.Tech / B.E.",
+        "field_of_study": [
+            "Agriculture",
+            "Automobile",
+            "Aviation",
+            "Bio-Chemistry / Bio-Technology",
+            "Biomedical",
+            "Ceramics",
+            "Chemical",
+            "Civil",
+            "Computers",
+            "Electrical",
+            "Electronics / Telecommunication",
+            "Energy",
+            "Environmental",
+            "Instrumentation",
+            "Marine",
+            "Mechanical",
+            "Metallurgy",
+            "Mineral",
+            "Mining",
+            "Nuclear",
+            "Paint / Oil",
+            "Petroleum",
+            "Plastics",
+            "Production / Industrial",
+            "Textile",
+            "Other Engineering",
+            "Other"
+        ]
+    },
+    {
+        "id": "12",
+        "degree": "LLB",
+        "field_of_study": [
+            "Law",
+            "Other"
+        ]
+    },
+    {
+        "id": "13",
+        "degree": "MBBS",
+        "field_of_study": [
+            "Medicine",
+            "Other"
+        ]
+    },
+    {
+        "id": "14",
+        "degree": "Diploma",
+        "field_of_study": [
+            "Architecture",
+            "Chemical",
+            "Civil",
+            "Computers",
+            "Electrical",
+            "Electronics / Telecommunication",
+            "Engineering",
+            "Export / Import",
+            "Fashion Designing / Other Designing",
+            "Graphic /",
+            "Web Designing",
+            "Hotel Management",
+            "Insurance",
+            "Management",
+            "Mechanical",
+            "Tourism",
+            "Visual Arts",
+            "Vocational Course",
+            "Other"
+        ]
+    },
+    {
+        "id": "15",
+        "degree": "BVSC",
+        "field_of_study": [
+            "Veterinary Science",
+            "Other"
+        ]
+    },
+    {
+        "id": "16",
+        "degree": "BAMS",
+        "field_of_study": [
+            "Ayurveda",
+            "Other"
+        ]
+    },
+    {
+        "id": "17",
+        "degree": "BHMS",
+        "field_of_study": [
+            "Homeopathy",
+            "Other"
+        ]
+    },
+    {
+        "id": "18",
+        "degree": "B.El.Ed",
+        "field_of_study": [
+            "Elementary Education",
+            "Other"
+        ]
+    },
+    {
+        "id": "19",
+        "degree": "B.P.Ed",
+        "field_of_study": [
+            "Physical Education",
+            "Other"
+        ]
+    },
+    {
+        "id": "20",
+        "degree": "B.Des.",
+        "field_of_study": [
+            "Animation Film Design",
+            "Ceramic &amp; Glass Design",
+            "Exhibition Design",
+            "Film and Video Communication",
+            "Textile Design",
+            "Furniture Design",
+            "Product Design",
+            "Graphic Design",
+            "Other"
+        ]
+    },
+    {
+        "id": "21",
+        "degree": "BFA",
+        "field_of_study": [
+            "Painting",
+            "Sculpture",
+            "Art History",
+            "Printmaking",
+            "Visual Communication",
+            "Other"
+        ]
+    },
+    {
+        "id": "22",
+        "degree": "B.U.M.S",
+        "field_of_study": [
+            "Unani Medicine",
+            "Other"
+        ]
+    },
+    {
+        "id": "23",
+        "degree": "CA",
+        "field_of_study": [
+            "CA",
+            "Pursuing",
+            "First Attempt",
+            "Second Attempt",
+            "Other"
+        ]
+    },
+    {
+        "id": "24",
+        "degree": "CS",
+        "field_of_study": [
+            "CS",
+            "Other"
+        ]
+    },
+    {
+        "id": "25",
+        "degree": "ICWA (CMA)",
+        "field_of_study": [
+            "ICWA (CMA)",
+            "Other"
+        ]
+    },
+    {
+        "id": "26",
+        "degree": "Integrated PG",
+        "field_of_study": [
+            "Journalism / Mass Communication",
+            "Management",
+            "PR /",
+            "Advertising",
+            "Tourism",
+            "Other"
+        ]
+    },
+    {
+        "id": "27",
+        "degree": "LLM",
+        "field_of_study": [
+            "Law",
+            "Other"
+        ]
+    },
+    {
+        "id": "28",
+        "degree": "M.A",
+        "field_of_study": [
+            "Anthropology",
+            "Arts &amp; Humanities",
+            "Communication",
+            "Economics",
+            "English",
+            "Film",
+            "Fine arts",
+            "Hindi",
+            "History",
+            "Journalism",
+            "Maths",
+            "Political Science",
+            "PR / Advertising",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Statistics",
+            "Other"
+        ]
+    },
+    {
+        "id": "29",
+        "degree": "M.Arch",
+        "field_of_study": [
+            "Architecture",
+            "Other"
+        ]
+    },
+    {
+        "id": "30",
+        "degree": "M.Com",
+        "field_of_study": [
+            "Commerce",
+            "Other"
+        ]
+    },
+    {
+        "id": "31",
+        "degree": "M.Ed",
+        "field_of_study": [
+            "Education",
+            "Other"
+        ]
+    },
+    {
+        "id": "32",
+        "degree": "M.Pharma",
+        "field_of_study": [
+            "Pharmacy",
+            "Other"
+        ]
+    },
+    {
+        "id": "33",
+        "degree": "MS / M.Sc(Science)",
+        "field_of_study": [
+            "Agriculture",
+            "Anthropology",
+            "Bio-Chemistry",
+            "Biology",
+            "Botany",
+            "Chemistry",
+            "Computers",
+            "Dairy Technology",
+            "Electronics",
+            "Environmental science",
+            "Food Technology",
+            "Geology",
+            "Home science",
+            "Maths",
+            "Microbiology",
+            "Nursing",
+            "Physics",
+            "Statistics",
+            "Zoology",
+            "Veterinary Science",
+            "Biotechnology",
+            "Organic Chemistry",
+            "Optometry",
+            "Astronautical Engineering",
+            "Aerospace Engineering",
+            "Chemical Engineering &amp; Materials Science",
+            "Civil &amp; Environmental Engineering",
+            "Electrical Engineering",
+            "Industrial &amp; Systems Engineering",
+            "Petroleum Engineering",
+            "Cyber Security Engineering",
+            "Data Informatics",
+            "Systems Architecting and Engineering",
+            "Mechanical Engineering",
+            "Marine Engineering",
+            "Electronics &amp; Embedded Technology",
+            "Mechatronics",
+            "Hospitality Administration",
+            "Other"
+        ]
+    },
+    {
+        "id": "34",
+        "degree": "M.Tech",
+        "field_of_study": [
+            "Agriculture",
+            "Automobile",
+            "Aviation",
+            "Bio-Chemistry / Bio-Technology",
+            "Biomedical",
+            "Ceramics",
+            "Chemical",
+            "Civil",
+            "Computers",
+            "Electrical",
+            "Electronics / Telecommunication",
+            "Energy",
+            "Environmental",
+            "Instrumentation",
+            "Marine",
+            "Mechanical",
+            "Metallurgy",
+            "Mineral",
+            "Mining",
+            "Nuclear",
+            "Paint / Oil",
+            "Petroleum",
+            "Plastics",
+            "Production / Industrial",
+            "Textile",
+            "Other Engineering",
+            "Other"
+        ]
+    },
+    {
+        "id": "35",
+        "degree": "MBA / PGDM",
+        "field_of_study": [
+            "Advertising / Mass Communication",
+            "Finance",
+            "HR / Industrial Relations",
+            "Information Technology",
+            "International Business",
+            "Marketing",
+            "Systems",
+            "Other Management",
+            "Operations",
+            "Hospitality Management",
+            "Other"
+        ]
+    },
+    {
+        "id": "36",
+        "degree": "MCA",
+        "field_of_study": [
+            "Computers",
+            "Other"
+        ]
+    },
+    {
+        "id": "37",
+        "degree": "Medical-MS / MD",
+        "field_of_study": [
+            "Cardiology",
+            "Dermatology",
+            "ENT",
+            "General Practitioner",
+            "Gyneocology",
+            "Hepatology",
+            "Immunology",
+            "Microbiology",
+            "Neonatal",
+            "Nephrology",
+            "Urology",
+            "Obstretrics",
+            "Oncology",
+            "Opthalmology",
+            "Orthopaedic",
+            "Pathology",
+            "Pediatrics",
+            "Psychiatry",
+            "psychology",
+            "Radiology",
+            "Rheumatology",
+            "Ayurveda",
+            "Thoracic Medicine",
+            "Sports Medicine",
+            "Aviation Medicine / Aerospace Medicine",
+            "Tuberculosis &amp; Respiratory Diseases / Pulmonary Medicine",
+            "Medical Genetics",
+            "Palliative Medicine",
+            "Public Health (Epidemiology)",
+            "Blood Banking &amp; Immuno. Haem. / Imm. Haem. &amp; Blood Trans.",
+            "Tropical Medicine",
+            "Maternity &amp; Child Health",
+            "Pulmonary Medicine",
+            "CCM",
+            "P.S.M",
+            "Emergency Medicine",
+            "R&amp;D",
+            "Anaesthesiology",
+            "Anatomy",
+            "Forensic Medicine / Forensic Medicine &amp; Toxicology",
+            "Geriatrics",
+            "Hospital Administration",
+            "Health Administration",
+            "Lab Medicine",
+            "Nuclear Medicine",
+            "Pharmacology",
+            "Physical Medicine &amp; Rehabilitation",
+            "Radiotherapy",
+            "Social &amp; Preventive Medicine / Community Medicine",
+            "Venereology",
+            "Bio-Chemistry",
+            "Unani",
+            "Bio-Physics",
+            "General Surgery",
+            "Neuro Surgery",
+            "Traumatology and Surgery",
+            "Other"
+        ]
+    },
+    {
+        "id": "38",
+        "degree": "PG Diploma",
+        "field_of_study": [
+            "Chemical",
+            "Civil",
+            "Computers",
+            "Electrical",
+            "Electronics",
+            "Mechanical",
+            "Other"
+        ]
+    },
+    {
+        "id": "39",
+        "degree": "MVSC",
+        "field_of_study": [
+            "Veterinary Science",
+            "Other"
+        ]
+    },
+    {
+        "id": "40",
+        "degree": "MCM",
+        "field_of_study": [
+            "Computers And Management",
+            "Other"
+        ]
+    },
+    {
+        "id": "41",
+        "degree": "MDS",
+        "field_of_study": [
+            "Dentistry",
+            "Other"
+        ]
+    },
+    {
+        "id": "42",
+        "degree": "MFA",
+        "field_of_study": [
+            "Sculpture",
+            "Printmaking",
+            "Visual Communication",
+            "Other"
+        ]
+    },
+    {
+        "id": "43",
+        "degree": "M.Des.",
+        "field_of_study": [
+            "Animation Film Design",
+            "Apparel Design",
+            "Ceramic &amp; Glass Design",
+            "Design for Retail Experience",
+            "Digital Game Design",
+            "Film and Video Communication",
+            "Furniture Design",
+            "Graphic Design",
+            "Information Design",
+            "Interaction Design",
+            "Lifestyle Accessory Design",
+            "New Media Design",
+            "Photography Design",
+            "Product Design",
+            "Strategic Design Management",
+            "Textile Design",
+            "Toy &amp; Game Design",
+            "Transportation &amp; Automobile Design",
+            "Universal Design",
+            "Other"
+        ]
+    },
+    {
+        "id": "44",
+        "degree": "DM",
+        "field_of_study": [
+            "Clinical Pharmacology",
+            "Clinical Haematology",
+            "Pulmonary Medicine",
+            "Neuro Radiology",
+            "Nephrology",
+            "Neonatology",
+            "Oncology",
+            "Gastroenterology",
+            "Cardiology",
+            "Neurology",
+            "Rheumatology",
+            "Endocrinology",
+            "Clinical Immunology",
+            "Pulmonary Med. &amp; Critical Care Med.",
+            "Cardiac -Anaes.",
+            "Haematology Pathology",
+            "Medical Genetics",
+            "Hepatology",
+            "Immunology",
+            "Child &amp; Adolescent Psychiatry",
+            "Pediatric Gastroenterology",
+            "Pediatric Cardiology",
+            "Pediatric Anaesthesia",
+            "Neuro Anaesthesia",
+            "Pediatric Nephrology",
+            "Reproductive Medicine",
+            "Virology",
+            "Pediatric Oncology",
+            "Geriatric Mental Health",
+            "Pediatric Hepatology",
+            "Infectious Diseases",
+            "Organ Transplant Anaesthesia &amp; Critical Care",
+            "Critical Care Medicine",
+            "Other"
+        ]
+    },
+    {
+        "id": "45",
+        "degree": "M.Ch",
+        "field_of_study": [
+            "Hand Surgery",
+            "Gynaecological Oncology",
+            "Pediatric Cardio-Thoracic Vascular Surgery",
+            "Plastic &amp; Reconstructive Surgery",
+            "Hepato Pancreato Biliary Surgery",
+            "Urology / Genito -Urinary Surgery",
+            "Hand &amp; Micro Surgery",
+            "Burns &amp; Plastic Surgery",
+            "Endocrine Surgery",
+            "Oncology",
+            "Vascular Surgery",
+            "Cardio Thoracic Surgery",
+            "Cardio Thoracic and Vascular Surgery",
+            "Neuro Surgery",
+            "Pediatric Surgery",
+            "Plastic Surgery",
+            "Surgical Gastroenterology / G.I. Surgery",
+            "Surgical Oncology",
+            "Thoracic Surgery",
+            "Urology",
+            "Other"
+        ]
+    },
+    {
+        "id": "46",
+        "degree": "Ph.D / Doctorate",
+        "field_of_study": [
+            "Advertising / Mass Communication",
+            "Agriculture",
+            "Anthropology",
+            "Architecture",
+            "Arts &amp; Humanities",
+            "Automobile",
+            "Aviation",
+            "Bio-Chemistry / Bio-Technology",
+            "Biomedical",
+            "Biotechnology",
+            "Ceramics",
+            "Chemical",
+            "Chemistry",
+            "Civil",
+            "Commerce",
+            "Communication",
+            "Computers",
+            "Dairy Technology",
+            "Dermatology",
+            "Economics",
+            "Electrical",
+            "Electronics / Telecommunication",
+            "Energy",
+            "ENT",
+            "Environmental",
+            "Fashion Designing / Other Designing",
+            "Film",
+            "Finance",
+            "Fine arts",
+            "Food Technology",
+            "Hotel Management",
+            "History",
+            "HR / Industrial Relations",
+            "Immunology",
+            "International Business",
+            "Instrumentation",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Marine",
+            "Marketing",
+            "Maths",
+            "Mechanical",
+            "Medicine",
+            "Metallurgy",
+            "Microbiology",
+            "Mineral",
+            "Mining",
+            "Neonatal",
+            "Nuclear",
+            "Obstetrics",
+            "Paint / Oil",
+            "Pathology",
+            "Petroleum",
+            "Pediatrics",
+            "Pharmacy",
+            "Physics",
+            "Plastics",
+            "Production / Industrial",
+            "Psychiatry",
+            "Psychology",
+            "Radiology",
+            "Rheumatology",
+            "Sanskrit",
+            "Sociology",
+            "Statistics",
+            "Systems",
+            "Textile",
+            "Vocational Courses",
+            "Other Arts",
+            "Other Doctorate",
+            "Other Engineering",
+            "Other Management",
+            "Other Science",
+            "Nursing",
+            "Linguistics",
+            "Political Science",
+            "Home Science",
+            "Special Education",
+            "Education",
+            "Music",
+            "Botany",
+            "Philosophy",
+            "Zoology",
+            "Physical Education",
+            "Genetics",
+            "Astrophysics",
+            "Biophysics",
+            "Other"
+        ]
+    },
+    {
+        "id": "47",
+        "degree": "MPHIL",
+        "field_of_study": [
+            "Advertising / Mass Communication",
+            "Agriculture",
+            "Anthropology",
+            "Architecture",
+            "Arts &amp; Humanities",
+            "Automobile",
+            "Aviation",
+            "Bio-Chemistry / Bio-Technology",
+            "Biomedical",
+            "Biotechnology",
+            "Ceramics",
+            "Chemical",
+            "Chemistry",
+            "Civil",
+            "Commerce",
+            "Communication",
+            "Computers",
+            "Dairy Technology",
+            "Dermatology",
+            "Economics",
+            "Electrical",
+            "Electronics / Telecommunication",
+            "Energy",
+            "ENT",
+            "Environmental",
+            "Fashion Designing / Other Designing",
+            "Film",
+            "Finance",
+            "Fine arts",
+            "Food Technology",
+            "Hotel Management",
+            "History",
+            "HR / Industrial Relations",
+            "Immunology",
+            "International Business",
+            "Instrumentation",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Marine",
+            "Marketing",
+            "Maths",
+            "Mechanical",
+            "Medicine",
+            "Metallurgy",
+            "Microbiology",
+            "Mineral",
+            "Mining",
+            "Neonatal",
+            "Nuclear",
+            "Obstetrics",
+            "Paint / Oil",
+            "Pathology",
+            "Petroleum",
+            "Pediatrics",
+            "Pharmacy",
+            "Physics",
+            "Plastics",
+            "Production / Industrial",
+            "Psychiatry",
+            "Psychology",
+            "Radiology",
+            "Rheumatology",
+            "Sanskrit",
+            "Sociology",
+            "Statistics",
+            "Systems",
+            "Textile",
+            "Vocational Courses",
+            "Other Arts",
+            "Other Doctorate",
+            "Other Engineering",
+            "Other Management",
+            "Other Science",
+            "Nursing",
+            "Linguistics",
+            "Political Science",
+            "Home Science",
+            "Special Education",
+            "Education",
+            "Music",
+            "Botany",
+            "Philosophy",
+            "Zoology",
+            "Physical Education",
+            "Genetics",
+            "Astrophysics",
+            "Biophysics",
+            "Other"
+        ]
+    }
+]

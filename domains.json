@@ -1,0 +1,672 @@
+[
+  {
+    "title": "ChipDsg/Semicond.",
+    "title" : "Semiconductors",
+    "type": "domains"
+  },
+
+  {
+    "title": "Managed Network Services",
+    "title" : "Business Supplies and Equipment",
+    "type": "domains"
+  },
+  {
+    "title": "Gaming",
+    "title" : "Computer Games",
+    "type": "domains"
+  },
+  {
+    "title": "Software Services",
+  "title" : "Information Services",
+    "type": "domains"
+  },
+  {
+    "title": "Engineering Services",
+    "title" :   "Civil Engineering"  ,
+    "type": "domains"
+  },
+  {
+    "title": "Telecom/ Internet",
+    "title" : "Internet",
+    "type": "domains"
+  },
+  {
+    "title": "Product Software",
+    "title" : "Computer Hardware" ,
+    "type": "domains"
+  },
+  {
+    "title": "Market Research",
+    "title" : "Market Research",
+    "type": "domains"
+  },
+  {
+    "title": "ITES/BPO/.COM",
+    "title" : "Broadcast Media",
+    "type": "domains"
+  },
+  {
+    "title": "Digital Agencies",
+    "title" : "E-Learning",
+    "type": "domains"
+  },
+  {
+    "title": "Legal",
+    "title" : "Legal Services",
+    "type": "domains"
+  },
+  {
+    "title": "Financial Services & Software",
+    "title" : "Financial Services",
+    "type": "domains"
+  },
+  {
+    "title": "Retail",
+    "title" : "Retail",
+    "type": "domains"
+  },
+  {
+    "title": "Healthcare/Pharma",
+    "title" : "Hospital & Health Care",
+    "type": "domains"
+  },
+  {
+    "title": "Cloud Security",
+    "type": "domains"
+  },
+  {
+    "title": "Networking",
+    "title" : "Computer Networking",
+    "type": "domains"
+  },
+  {
+    "title": "Apparel",
+    "title" : "Apparel & Fashion"
+    "type": "domains"
+  },
+  {
+    "title": "Auto/Auto Equip.",
+    "title" : "Automotive",
+    "type": "domains"
+  },
+  {
+    "title": "CRO",
+    "title" : "Chemicals" ,
+    "type": "domains"
+  },
+  {
+    "title": "EPC/Engg./Infrastr./Mining",
+    "title" : "Mechanical or Industrial Engineering",
+    "type": "domains"
+  },
+  {
+    "title": "Steel",
+    "title" : "Construction",
+    "type": "domains"
+  },
+  {
+    "title": "Pre Engineer Building/PEB/Building Materials",
+    "title" : "Building Materials" ,
+    "type": "domains"
+  },
+  {
+    "title": "Textile",
+    "title" : "Textiles",
+    "type": "domains"
+  },
+  {
+    "title": "Transport/Railways",
+    "title" : "Leisure,Travel &Tourism",
+    "type": "domains"
+  },
+  {
+    "title": "Switchgear/ Electrical Engineering",
+    "title" : "Electrical/Electronic Manufacturing",
+    "type": "domains"
+  },
+  {
+    "title": "Petroleum/Energy",
+    "title" : "Oil & Energy"
+    "type": "domains"
+  },
+  {
+    "title": "Air Compressors",
+    "title" : "Airlines/Aviation" , 
+    "type": "domains"
+  },
+  {
+    "title": "Healthcare/Pharma",
+    "Pharmaceuticals"
+    "type": "domains"
+  },
+  {
+    "title": "Engg./Infrastr./Mining",
+    "title" : "Mining & Metals",
+    "type": "domains"
+  },
+  {
+    "title": "Durable/Fmcg/Electr.",
+    "title" : "Consumer Electronics",
+    "type": "domains"
+  },
+  {
+    "title": "Jewellery Industry",
+    "title" : "Luxury Goods & Jewelry",
+    "type": "domains"
+  },
+  {
+    "title": "Diversified/Retail",
+    "type": "domains"
+  },
+  {
+    "title": "Transmission & Distribution",
+    "type": "domains"
+  },
+  {
+    "title": "Pipes/Piping/Plastics",
+    "title" : "Plastics"
+    "type": "domains"
+  },
+  {
+    "title": "Dairy",
+    "type": "domains"
+  },
+  {
+    "title": "BPO/KPO",
+    "title" : "Telecommunications",
+    "type": "domains"
+  },
+  {
+    "title": "Facility Management",
+    "title" : "Facilities Services",
+    "type": "domains"
+  },
+  {
+    "title": "Realestate/Constr.",
+    "title" :  "Commercial Real Estate",
+    "type": "domains"
+  },
+  {
+    "title": "Logistics/Shipping",
+    "title" : "Logistics and Supply Chain",
+    "type": "domains"
+  },
+  {
+    "title": "Education",
+    "title" : "Primary/Secondary Education",
+    "type": "domains"
+  },
+  {
+    "title": "Engineering services",
+    "title" : "Information Services",
+    "type": "domains"
+  },
+  {
+    "title": "Finance/Insurance",
+    "title" : "Insurance",
+    "type": "domains"
+  },
+  {
+    "title": "Insurance Operations",
+    "title" : "Mental Health Care",
+    "type": "domains"
+  },
+  {
+    "title": "Technology Digital Media Services",
+    "Online Media"
+    "type": "domains"
+  },
+  {
+    "title": "Healthcare",
+    "title" : "Health,Wellness and Fitness",
+    "type": "domains"
+  },
+  {
+    "title": "Media",
+    {"title" : "Media Production",
+    "type": "domains"
+  }
+  [
+    {
+      "title": "Accounting",
+      "type": "domains"
+    },
+    {
+      "title": "Alternative Dispute Resolution",
+      "type": "domains"
+    },
+    {
+      "title": "Alternative Medicine",
+      "type": "domains"
+    },
+    {
+      "title": "Animation",
+      "type": "domains"
+    },
+    {
+      "title": "Architecture Planning",
+      "type": "domains"
+    },
+    {
+      "title": "Arts and Crafts",
+      "type": "domains"
+    },
+    {
+      "title": "Aviation Aerospace",
+      "type": "domains"
+    },
+    {
+      "title": "Banking",
+      "type": "domains"
+    },
+    {
+      "title": "Biotechnology",
+      "type": "domains"
+    },
+    {
+      "title": "Capital Markets",
+      "type": "domains"
+    },
+    {
+      "title": "Civic & Social Organization",
+      "type": "domains"
+    },
+    {
+      "title": "Computer Network Security",
+      "type": "domains"
+    },
+    {
+      "title": "Consumer Goods",
+      "type": "domains"
+    },
+    {
+      "title": "Consumer Services",
+      "type": "domains"
+    },
+    {
+      "title": "Cosmetics",
+      "type": "domains"
+    },
+    {
+      "title": "Defense Space",
+      "type": "domains"
+    },
+    {
+      "title": "Design",
+      "type": "domains"
+    },
+    {
+      "title": "Education Management",
+      "type": "domains"
+    },
+    {
+      "title": "Entertainment",
+      "type": "domains"
+    },
+    {
+      "title": "Environmental Services",
+      "type": "domains"
+    },
+    {
+      "title": "Events Services",
+      "type": "domains"
+    },
+    {
+      "title": "Executive Office",
+      "type": "domains"
+    },
+    {
+      "title": "Farming",
+      "type": "domains"
+    },
+    {
+      "title": "Fine Art",
+      "type": "domains"
+    },
+    {
+      "title": "Fishery",
+      "type": "domains"
+    },
+    {
+      "title": "Food Beverages",
+      "type": "domains"
+    },
+    {
+      "title": "Food Production",
+      "type": "domains"
+    },
+    {
+      "title": "Fund-Raising",
+      "type": "domains"
+    },
+    {
+      "title": "Furniture",
+      "type": "domains"
+    },
+    {
+      "title": "Gambling Casinos",
+      "type": "domains"
+    },
+    {
+      "title": "Glass,Ceramics&Concrete",
+      "type": "domains"
+    },
+    {
+      "title": "Government Administration",
+      "type": "domains"
+    },
+    {
+      "title": "Government Relations",
+      "type": "domains"
+    },
+    {
+      "title": "Graphic Design",
+      "type": "domains"
+    },
+    {
+      "title": "Higher Education",
+      "type": "domains"
+    },
+    {
+      "title": "Hospitality",
+      "type": "domains"
+    },
+    {
+      "title": "Human Resources",
+      "type": "domains"
+    },
+    {
+      "title": "Import and Export",
+      "type": "domains"
+    },
+    {
+      "title": "Individual & Family Services",
+      "type": "domains"
+    },
+    {
+      "title": "Industrial Automation",
+      "type": "domains"
+    },
+    {
+      "title": "International Affairs",
+      "type": "domains"
+    },
+    {
+      "title": "International Trade and Development",
+      "type": "domains"
+    },
+    {
+      "title": "Investment Banking",
+      "type": "domains"
+    },
+    {
+      "title": "Investment Management",
+      "type": "domains"
+    },
+    {
+      "title": "Judiciary",
+      "type": "domains"
+    },
+    {
+      "title": "Law Enforcement",
+      "type": "domains"
+    },
+    {
+      "title": "Law Practice",
+      "type": "domains"
+    },
+    {
+      "title": "Legal Services",
+      "type": "domains"
+    },
+    {
+      "title": "Legislative Office",
+      "type": "domains"
+    },
+    {
+      "title": "Libraries",
+      "type": "domains"
+    }
+  ],
+  [
+    {
+      "title": "Logistics and Supply Chain",
+      "type": "domains"
+    },
+    {
+      "title": "Machinery",
+      "type": "domains"
+    },
+    {
+      "title": "Management Consulting",
+      "type": "domains"
+    },
+    {
+      "title": "Maritime",
+      "type": "domains"
+    },
+    {
+      "title": "Marketing and Advertising",
+      "type": "domains"
+    },
+    {
+      "title": "Medical Devices",
+      "type": "domains"
+    },
+    {
+      "title": "Medical Practice",
+      "type": "domains"
+    },
+    {
+      "title": "Military",
+      "type": "domains"
+    },
+    {
+      "title": "Motion Pictures and Film",
+      "type": "domains"
+    },
+    {
+      "title": "Museums and Institutions",
+      "type": "domains"
+    },
+    {
+      "title": "Music",
+      "type": "domains"
+    },
+    {
+      "title": "Nanotechnology",
+      "type": "domains"
+    },
+    {
+      "title": "Newspapers",
+      "type": "domains"
+    },
+    {
+      "title": "Nonprofit Organization Management",
+      "type": "domains"
+    },
+    {
+      "title": "Outsourcing/Offshoring",
+      "type": "domains"
+    },
+    {
+      "title": "Package/Freight Delivery",
+      "type": "domains"
+    },
+    {
+      "title": "Packaging and Containers",
+      "type": "domains"
+    },
+    {
+      "title": "Paper & Forest Products",
+      "type": "domains"
+    },
+    {
+      "title": "Performing Arts",
+      "type": "domains"
+    },
+    {
+      "title": "Pharmaceuticals",
+      "type": "domains"
+    },
+    {
+      "title": "Philanthropy",
+      "type": "domains"
+    },
+    {
+      "title": "Photography",
+      "type": "domains"
+    },
+    {
+      "title": "Political Organization",
+      "type": "domains"
+    },
+    {
+      "title": "Primary/Secondary Education",
+      "type": "domains"
+    },
+    {
+      "title": "Printing",
+      "type": "domains"
+    },
+    {
+      "title": "Professional Training & Coaching",
+      "type": "domains"
+    },
+    {
+      "title": "Program Development",
+      "type": "domains"
+    },
+    {
+      "title": "Public Policy",
+      "type": "domains"
+    },
+    {
+      "title": "Public Relations and Communications",
+      "type": "domains"
+    },
+    {
+      "title": "Public Safety",
+      "type": "domains"
+    },
+    {
+      "title": "Publishing",
+      "type": "domains"
+    },
+    {
+      "title": "Railroad Manufacture",
+      "type": "domains"
+    },
+    {
+      "title": "Ranching",
+      "type": "domains"
+    },
+    {
+      "title": "Recreational Facilities and Services",
+      "type": "domains"
+    },
+    {
+      "title": "Religious Institutions",
+      "type": "domains"
+    },
+    {"title": "Renewables&Environment","type": "domains"},
+  
+    {
+      "title": "Research",
+      "type": "domains"
+    },
+    {
+      "title": "Restaurants",
+      "type": "domains"
+    },
+    {
+      "title": "Retail",
+      "type": "domains"
+    },
+    {
+      "title": "Security and Investigations",
+      "type": "domains"
+    },
+    {
+      "title": "Shipbuilding",
+      "type": "domains"
+    },
+    {
+      "title": "Sporting Goods",
+      "type": "domains"
+    },
+    {
+      "title": "Sports",
+      "type": "domains"
+    },
+    {
+      "title": "Staffing and Recruiting",
+      "type": "domains"
+    },
+    {
+      "title": "Supermarkets",
+      "type": "domains"
+    },
+    {
+      "title": "Telecommunications",
+      "type": "domains"
+    },
+    {
+      "title": "Textiles",
+      "type": "domains"
+    },
+    {
+      "title": "Think Tanks",
+      "type": "domains"
+    },
+    {
+      "title": "Tobacco",
+      "type": "domains"
+    },
+    {
+      "title": "Translation and Localization",
+      "type": "domains"
+    },
+    {"title": "Transportation/Trucking/Railroad","type": "domains"},
+    {
+      "title": "Utilities",
+      "type": "domains"
+    },
+    {
+      "title": "Venture Capital & Private Equity",
+      "type": "domains"
+    },
+    {
+      "title": "Veterinary",
+      "type": "domains"
+    },
+    {
+      "title": "Warehousing",
+      "type": "domains"
+    },
+    {
+      "title": "Wholesale",
+      "type": "domains"
+    },
+    {
+      "title": "Wine and Spirits",
+      "type": "domains"
+    },
+    {
+      "title": "Wireless",
+      "type": "domains"
+    },
+    {
+      "title": "Writing and Editing",
+      "type": "domains"
+    },
+    {
+      "title": "Technologies",
+      "type": "domains"
+    }
+  ]
+]
+
+
+
+

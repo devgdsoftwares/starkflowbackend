@@ -1,0 +1,190 @@
+[
+    {
+        "id": "1",
+        "name": "B.A"
+    },
+    {
+        "id": "2",
+        "name": "B.Arch"
+    },
+    {
+        "id": "3",
+        "name": "BCA"
+    },
+    {
+        "id": "4",
+        "name": "B.B.A /  B.M.S"
+    },
+    {
+        "id": "5",
+        "name": "B.Com"
+    },
+    {
+        "id": "6",
+        "name": "B.Ed"
+    },
+    {
+        "id": "7",
+        "name": "BDS"
+    },
+    {
+        "id": "8",
+        "name": "BHM"
+    },
+    {
+        "id": "9",
+        "name": "B.Pharma"
+    },
+    {
+        "id": "10",
+        "name": "B.Sc"
+    },
+    {
+        "id": "11",
+        "name": "B.Tech / B.E."
+    },
+    {
+        "id": "12",
+        "name": "LLB"
+    },
+    {
+        "id": "13",
+        "name": "MBBS"
+    },
+    {
+        "id": "14",
+        "name": "Diploma"
+    },
+    {
+        "id": "15",
+        "name": "BVSC"
+    },
+    {
+        "id": "16",
+        "name": "BAMS"
+    },
+    {
+        "id": "17",
+        "name": "BHMS"
+    },
+    {
+        "id": "18",
+        "name": "B.El.Ed"
+    },
+    {
+        "id": "19",
+        "name": "B.P.Ed"
+    },
+    {
+        "id": "20",
+        "name": "B.Des."
+    },
+    {
+        "id": "21",
+        "name": "BFA"
+    },
+    {
+        "id": "22",
+        "name": "B.U.M.S"
+    },
+    {
+        "id": "23",
+        "name": "CA"
+    },
+    {
+        "id": "24",
+        "name": "CS"
+    },
+    {
+        "id": "25",
+        "name": "ICWA (CMA)"
+    },
+    {
+        "id": "26",
+        "name": "Integrated PG"
+    },
+    {
+        "id": "27",
+        "name": "LLM"
+    },
+    {
+        "id": "28",
+        "name": "M.A"
+    },
+    {
+        "id": "29",
+        "name": "M.Arch"
+    },
+    {
+        "id": "30",
+        "name": "M.Com"
+    },
+    {
+        "id": "31",
+        "name": "M.Ed"
+    },
+    {
+        "id": "32",
+        "name": "M.Pharma"
+    },
+    {
+        "id": "33",
+        "name": "MS / M.Sc(Science)"
+    },
+    {
+        "id": "34",
+        "name": "M.Tech"
+    },
+    {
+        "id": "35",
+        "name": "MBA / PGDM"
+    },
+    {
+        "id": "36",
+        "name": "MCA"
+    },
+    {
+        "id": "37",
+        "name": "Medical-MS / MD"
+    },
+    {
+        "id": "38",
+        "name": "PG Diploma"
+    },
+    {
+        "id": "39",
+        "name": "MVSC"
+    },
+    {
+        "id": "40",
+        "name": "MCM"
+    },
+    {
+        "id": "41",
+        "name": "MDS"
+    },
+    {
+        "id": "42",
+        "name": "MFA"
+    },
+    {
+        "id": "43",
+        "name": "M.Des."
+    },
+    {
+        "id": "44",
+        "name": "DM"
+    },
+    {
+        "id": "45",
+        "name": "M.Ch"
+    },
+    {
+        "id": "46",
+        "name": "Ph.D / Doctorate"
+    },
+    {
+        "id": "47",
+        "name": "MPHIL"
+    }
+]

@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+{% import "macros/head.html" as head %}
+{{head.title('Demo Server')}}
+
+<body>
+    <div class="wrapper">
+        {% include "partials/sidebar.html" %}
+        {% include "partials/navbar.html" %}
+        {% import "macros/card_element.html" as card %}
+        <div class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <div class="card card-info">
+                            <div class="card-header no-padding">
+                                <h3 class="card-description text-center">Import CV</h3>
+                            </div>
+                            <div class="card-body">
+                                {% import "macros/forms.html" as form %}
+                                <form method="POST" action="javascript:void(0)" id="addValidation" onkeypress="return event.keyCode != 13;">
+                                    <div class="form-group">
+                                        <div class="dropzone"  id="addFileUpload">
+                                            <div class="fallback">
+                                                <input type="file" name="file"/>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <div class="card card-info">
+                            <div class="card-header no-padding">
+                            </div>
+                            <div class="card-body">
+                                <div style="display:none" class="view">
+                                    <h3 class="card-description text-center">Results</h3>
+                                    <br />
+                                    {{card.element('Name','4','5')}}
+                                    {{card.element('City','4','5')}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+</script>
+{% include "partials/core_js.html" %}
+{% import "macros/plugins.html" as plugins %}
+{{plugins.script('bootstrap-switch')}}
+{{plugins.script('bootstrap-notify')}}
+{{plugins.script('sweetalert2.min')}}
+{{plugins.script('jquery.validate.min')}}
+{{plugins.script('jquery.dataTables.min')}}
+{{plugins.script('buttons.html5.min')}}
+{{plugins.script('dropzone')}}
+{{plugins.script('light-bootstrap-dashboard')}}
+{{plugins.script('demo')}}
+{% include "partials/validation.html" %}
+{% include "partials/functions.html" %}
+<script>
+    Dropzone.autoDiscover = false;
+
+    $('#addFileUpload').dropzone({
+        url:'{{admin_url}}',
+        method:'POST',
+        // acceptedFiles:'.pdf',
+        paramName: "files",
+        maxFilesize: 5,
+        addRemoveLinks: true,
+        uploadMultiple: false,
+        maxFiles:1,
+        //parallelUploads:1,
+        autoProcessQueue: true,
+        //autoQueue: true,
+        dictDefaultMessage: "Drop files here or click to upload.",
+        init: function() {
+            var fileUpload=this;
+            var message;
+            this.on("complete", function(file, res) {
+                $(".dz-remove").html("<div><span class='fa fa-trash text-info' style='font-size: 1.5em'></span></div>");
+                $('.dz-success-mark').hide();
+            });
+
+            this.on("success",function(file, res){
+                if(!res.error) {
+                    $('.view').html('');
+                    $('.view').show();
+                    for (const [key,value] of Object.entries(res.data)) {
+                       $('.view').append(`<div class="row">
+                                <label class="col-sm-4">${key}</label>
+                                <p class="col-sm-6">${value}</p>
+                            </div>`
+                        );
+                    }
+                } else {
+                    demo.showNotification('top', 'center', res.message, 'danger', 'nc-icon');        
+                }
+                // $('.view > .row > p').eq(1).html($(this).children().eq(1).html());
+                // $('.view > .row > p').eq(0).html($(this).children().eq(0).find('span').eq(0).html());
+            });
+
+            this.on("removedfile", function(file) {
+
+                fileUpload.setupEventListeners();
+            });
+
+            this.on("addedfile",function(file){
+                $(".dz-remove").html("<div><span class='fa fa-trash text-info' style='font-size: 1.5em'></span></div>");
+                $(".dz-preview").addClass('dz-complete');
+            });
+
+            this.on('maxfilesreached', ()=> {
+                this.removeEventListeners();
+            });
+        }
+    });
+
+    $(document).ready(function () {
+        {% if error_flash %}
+        demo.showNotification('top', 'center', '{{ error_flash }}', 'danger', 'nc-icon');
+        {% endif %}
+
+        $(document).on('click', "tbody > tr", function () {
+            $('.view').show();
+            $('.view > .row > p').eq(0).html($(this).children().eq(0).find('span').eq(0).html());
+            $('.view > .row > p').eq(1).html($(this).children().eq(1).html());
+        });
+    });
+</script>
+
+</html>
